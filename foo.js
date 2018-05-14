@@ -1,7 +1,7 @@
 foo = function () { 
-	console.log('hi am foo fnc'); 
+	console.log('foo!'); 
 }
 
-goo = function(msg){
-    console.log(msg);
+foo2 = function(msg){
+    console.log('foo2!'+(msg));
 }

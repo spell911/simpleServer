@@ -1,3 +1,3 @@
 module.exports = function () { 
-	console.log('hi am bar fnc'); 
+	console.log('bar!'); 
 }
